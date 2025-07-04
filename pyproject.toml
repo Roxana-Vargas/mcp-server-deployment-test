@@ -12,7 +12,7 @@ dependencies = [
 mcp-server = "mcpserver.__main__:main"
 
 [build-system]
-requires = ["setuptools]
+requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [tool-setuptools]
